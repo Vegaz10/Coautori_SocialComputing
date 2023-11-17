@@ -1,0 +1,8 @@
+*
+!*/          # Includi tutte le directory
+!*.csv
+!*.html
+!*.md
+!*.pdf
+!*.ipynb
+!*.pickle
