@@ -2,6 +2,7 @@
 !*/          # Includi tutte le directory
 !*.csv
 !*.html
+!*.json
 !*.md
 !*.pdf
 !*.ipynb
