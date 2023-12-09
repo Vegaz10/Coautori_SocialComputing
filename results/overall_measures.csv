@@ -1,3 +1,3 @@
 nome,clustering_medio,centro,raggio,distanza_media,transitivita,coeff_omega,coeff_sigma
-coautorship_graph,0.1651253164742771,"Michael Soprano, Kevin Roitero, Stefano Mizzaro, Gianluca Demartini",2,2.651742993848257,0.14793856103476152,-0.01205052197448142,0.9474874380005853
-extended_coautorship_graph,0.2081394421861102,"David La Barbera, Michael Soprano, Kevin Roitero, Stefano Mizzaro, Damiano Spina, Gianluca Demartini, Eddy Maddalena, Vincenzo Della Mea, Davide Ceolin, Tim Draws, Alessandro Checco, Falk Scholer, Mark Sanderson",2,2.4032809295967192,0.2936267071320182,0.0030484536133689177,0.9992747440273035
+coautorship_graph,0.1651253164742771,"Michael Soprano, Kevin Roitero, Stefano Mizzaro, Gianluca Demartini",2,2.651742993848257,0.14793856103476152,-0.007442029741360434,0.9423534925673351
+extended_coautorship_graph,0.4428696065928184,"Michael Soprano, Kevin Roitero, Stefano Mizzaro, Gianluca Demartini",2,2.283321941216678,0.11740121580547112,0.3502404079938459,0.7719185488393718
