@@ -19,16 +19,15 @@ Alessandro Checco,Computer Science Department - University of Rome La Sapienza,c
 Afshin Rahimi,Applied Scientist @ Amazon,WhPw2I0AAAAJ,1300,['Natural Language Processing']
 Andrea Brunello,Università degli Studi di Udine,GuteS00AAAAJ,281,"['Data science', 'machine learning', 'evolutionary computation', 'data modelling', 'databases']"
 Tetsuya Sakai,Waseda University,vi56gz4AAAAJ,6623,"['information retrieval', 'natural language processing', 'human computer interaction']"
-Maddalena Zippi,"Unita' di Gastroenterologia ed Endoscopia Digestiva, ospedale Sandro Pertini, Roma",j8YC3TAAAAAJ,1748,"['endoscopia digestiva diagnostica e opertiva', 'endoscopia vie biliari', 'malattie infiammatorie croniche intestinali', 'malattie panc']"
 Mihai Horia Popescu,PhD student,7VIbKlEAAAAJ,47,"['Machine learning', 'medical informatics', 'Explainable Artificial Intelligence (XAI)']"
-Falk Scholer,"School of Computing Technologies, RMIT University",qOLjlqsAAAAJ,4660,"['Information retrieval', 'search', '… transparency and ethics of algorithms AI and …', 'data science', 'dat']"
+Falk Scholer,"School of Computing Technologies, RMIT University",qOLjlqsAAAAJ,4660,"['Information retrieval', 'search', 'fairness accountability transparency and ethics of algorithms AI and computing', 'data science', 'dat']"
 J. Shane Culpepper,The University of Queensland,OFlBSEEAAAAJ,3170,"['Information Retrieval', 'Search', 'Algorithms', 'Machine Learning']"
 Yunke Qu,The University of Queensland,oup2M48AAAAJ,11,"['Recommender Systems', 'Data Mining', 'Information Retrieval']"
 Rishabh Mehrotra,"Head of AI, Sourcegraph",X9BKWWoAAAAJ,2277,"['Machine Learning', 'Recommender Systems', 'Large Language Models']"
 Mounia Lalmas,Spotify,wAr9G5sAAAAJ,10848,['Personalization.']
 Ben Carterette,Spotify,zgHZ-KMAAAAJ,5789,"['search', 'recommender systems', 'ML']"
-Mark R. Sanderson,"Visiting Professor, St. George's University of London",hTob0R4AAAAJ,15668,"['Structural Biology', 'topoisomerases', 'nucleic acid interacting proteins']"
-Vanessa De Luca,"Research Associate, SUPSI",HZl2KP0AAAAJ,425,['Interaction Design']
+Mark Sanderson,"School of Computing Technologies, RMIT University",HmqvvQkAAAAJ,13391,"['Information Retrieval', 'Data Analysis', 'Recommender Systems']"
+Luca Vassena,Università di Udine,dCBk3oIAAAAJ,359,"['mobile', 'ir', 'context']"
 Luca Di Gaspero,"Associate Professor of Information Technology, University of Udine",fIES7P0AAAAJ,3665,"['Artificial Intelligence', 'Operations Research', 'Data Analytics', 'Metaheuristics']"
 Carlo Tasso,Full Professor in Computer Science,ITxRmxIAAAAJ,3643,"['Artificial Intelligence', 'Web Intelligence', 'Semantic Web']"
 Paolo Coppola,"Associate Professor of Computer Science, University of Udine",P15-SKkAAAAJ,535,"['Type theory', 'lambda calculus', 'computational complexity', 'context aware computing', 'mobile computing']"
@@ -49,7 +48,7 @@ Edgar Meij,Bloomberg,vb6YKF0AAAAJ,3143,"['Information Retrieval', 'Semantich Sea
 Flora Salim,"Professor, Cisco Chair of Digital Transport, Computer Science and Engineering, UNSW",Yz35RSYAAAAJ,4005,"['Machine Learning', 'Artificial Intelligence', 'Ubiquitous Computing', 'Time Series', 'Mobility Data Science']"
 W. Bruce Croft,"Distinguished Professor Emeritus, University of Massachusetts Amherst",ArV74ZMAAAAJ,64290,['Information Retrieval']
 Víctor Fresno,Associate Professor of Computer Science (UNED),X_95ZxEAAAAJ,1558,"['Document Representation', 'Natural Language Processing', 'Machine Learning', 'Compositional Distributional Semantics']"
-Raquel Manzano Martinez,Neuroscientist. Lecturer in Genetics. University of Zaragoza.,a1H9MxgAAAAJ,11847,['… Lateral Sclerosis. Spinal and Bulbar Muscular …']
+Raquel Martinez,"Full Professor of Computer Science, UNED University",m0-0QxgAAAAJ,1195,"['Natural Language Processing', 'Document Clustering', 'Multilinguality', 'Person name desambiguation', 'Document representation']"
 Yongli Ren,"School of Computing Technologies, RMIT University",ZZl7bW8AAAAJ,1284,"['Recommender System', 'Data Mining', 'Fog Computing', 'Data Science', 'Data Analysis']"
 Ryen W. White,"General Manager, Deputy Lab Director, Microsoft Research",U69fiZMAAAAJ,20384,"['Information Retrieval', 'Human-Computer Interaction', 'Artificial Intelligence', 'Psychology', 'Health']"
 Philippe Cudre-Mauroux,"Full Professor (Computer Science), U. of Fribourg–Switzerland",NpccCXwAAAAJ,9351,"['Big Data', 'Graph Data', 'Infrastructures for AI', 'Emergent Semantics']"
@@ -57,15 +56,15 @@ Djellel Difallah,"Assistant Professor, Computer Science, NYU Abu Dhabi",K5d-OHEA
 Ujwal Gadiraju,"Assistant Professor, Web Information Systems, Delft University of Technology",FX7BF6QAAAAJ,3286,"['Human-centered AI', 'Crowd Computing', 'Human-Computer Interaction', 'Information Retrieval', 'Conversational Interfaces']"
 Tereza Iofciu,L3S,wQgkh-4AAAAJ,1217,"['machine learning', 'artificial intelligence', 'data science']"
 Michele Catasta,VP of AI at Replit,ZxfOSWMAAAAJ,6189,"['Large Language Models', 'AI4Code', 'Machine Learning', 'Information Retrieval', 'Data Science']"
-Wolfgang Nejdl,"Professor of Computer Science, Leibniz Universität Hannover, L3S Research Center …",LC62bdYAAAAJ,25524,"['Information Retrieval', 'Web Science', 'Social Media', 'Data Mining', 'Semantic Technologies']"
-Shazia Sadiq,The University of Queensland,1Jo0EmIAAAAJ,10273,"['Data Quality Management', 'Business Process Management', '… Risk and Compliance in Information Systems', 'Service Systems']"
-Leihan Tang,"Professor of Physics, Hong Kong Baptist University",kYTmdEMAAAAJ,6669,"['Statistical Physics', 'Biological Physics', 'Computational Physics', 'Systems Biology', 'Quantitative Modeling']"
+Wolfgang Nejdl,"Professor of Computer Science, Leibniz Universität Hannover, L3S Research Center, Hannover, Germany",LC62bdYAAAAJ,25524,"['Information Retrieval', 'Web Science', 'Social Media', 'Data Mining', 'Semantic Technologies']"
+Shazia Sadiq,The University of Queensland,1Jo0EmIAAAAJ,10273,"['Data Quality Management', 'Business Process Management', 'Governance Risk and Compliance in Information Systems', 'Service Systems']"
+Lei Han,The University of Queensland,Oibami4AAAAJ,234,[]
 Peter A Bath,University of Sheffield,-ExSN_IAAAAJ,7140,"['Health Informatics', 'Health Data Science', 'Information behaviours', 'Older people', 'online sharing']"
 "Dr. Wasim Ahmed, PhD",Senior Lecturer in Marketing,JduIcrAAAAAJ,2185,"['Marketing', 'Disinformation', 'Social Media', 'Social Network Analysis', 'Analytics']"
 Karl Aberer,"Professor of Computer and Communication Sciences, EPFL",ifU81ikAAAAJ,23870,"['Social Media', 'Data Management', 'Data Integration', 'Trust Management', 'Semantic Web']"
 Alberto Tonon,"PhD Student, University of Fribourg",zBYcXUMAAAAJ,469,"['Computer Science', 'Information Retrieval', 'Semantic Web']"
 Laura Sbaffi,"Senior Lecturer, Information School, University of Sheffield",TMKfR4AAAAAJ,3390,"['Social care', 'trust in information', 'information literacy']"
-Claudiu S. Firan,,SRc8aowAAAAJ,1744,[]
+Claudiu S. Firan,Unknown affiliation,SRc8aowAAAAJ,1744,[]
 Elena Simperl,"Professor of computer science, King's College London, United Kingdom",xB7s3wgAAAAJ,7038,"['knowledge graphs', 'knowledge engineering', 'open data', 'social computing', 'human computation']"
 Andrew Turpin,Lions Eye Institute and Curtin University,lCZblDwAAAAJ,6903,"['Human vision', 'Computer vision', 'Information Science', 'Data Analysis']"
 Cristina Sarasua,University of Zurich,i_2lvZwAAAAJ,777,"['CSCW', 'Digital Democracy', 'Civic Technology', 'Data Analytics', 'Knowledge Graphs']"
@@ -74,6 +73,6 @@ Marco Basaldella,Amazon,SRvx2QoAAAAJ,526,[]
 Mattia Zeni,"Databricks, TomTom, IBM Research, University of Trento, Create-net",DL18RZEAAAAJ,617,"['Big Data', 'AI', 'Machine Learning', 'Human-Centered AI', 'Privacy-Aware Machine Learning']"
 Dante Degl'Innocenti,Datamantix,Ay6L7NsAAAAJ,116,"['Artificial Intelligence', 'Deep Learning', 'Natural Language Processing', 'Data Science', 'Machine Learning']"
 Pavlos Vougiouklis,Huawei Technologies,9J7YeR0AAAAJ,585,[]
-Jon Hare,"NOAA Fisheries, Northeast Fisheries Science Center",d_HvmVsAAAAJ,12323,"['oceanography', 'fisheries', 'climate change', 'management']"
+Jonathon Hare,"Professor of Machine Learning and Computer Vision, University of Southampton, United Kingdom",UFeON5oAAAAJ,4536,"['Deep Learning', 'Representation Learning', 'Machine Learning', 'Computer Vision']"
 Carlo Alberto Beltrami,"Professore, Università di Udine",EZrMWWMAAAAJ,18402,['cellule staminali']
-Richard Gomer,"Professor of Biology, Texas A&M University",z1YBrC4AAAAJ,10351,"['fibrosis', 'Dictyostelium', 'cell density sensing']"
+Richard Gomer,University of Southampton,5ZTLglQAAAAJ,282,"['privacy', 'consent', 'interaction', 'hci', 'web science']"
